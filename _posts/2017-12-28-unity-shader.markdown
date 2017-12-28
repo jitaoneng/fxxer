@@ -4,7 +4,7 @@ title:  "Unity Shader学习day1"
 date:   2017-12-28 14:10:51 +0800
 categories: Unity
 tags: Shader
-description: A simple example post page generate by Jekyll.
+description: shader简单介绍.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
