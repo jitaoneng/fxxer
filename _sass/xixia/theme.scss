@@ -52,6 +52,11 @@ body {
     color: $side-bar-a-color;
 }
 
+.siderbar a img{
+    width:100px;
+    height: 100px;
+}
+
 .sidebar li {
     margin-top: .7em;
     line-height: 1em;
